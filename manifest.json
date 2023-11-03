@@ -1,0 +1,11 @@
+{
+  "name": "scoheart-plg4",
+  "id": "1",
+  "api": "1.0.0",
+  "main": "dist/index.js",
+  "ui": "public/index.html",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "editorType": ["figma"]
+}

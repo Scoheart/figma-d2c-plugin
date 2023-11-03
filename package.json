@@ -1,0 +1,16 @@
+{
+  "name": "plg4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.80.0",
+    "typescript": "^5.2.2"
+  }
+}
